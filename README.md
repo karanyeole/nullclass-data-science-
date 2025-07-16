@@ -2,7 +2,7 @@
 **Internship Period**: March 17, 2025 - July 17, 2025  
 **Submission Date**: July 17, 2025  
 **Email**: [karanyeole2712@gmail.com]  
-**GitHub Repository**: [https://github.com/karanyeole]
+**GitHub Repository**: [(https://github.com/karanyeole/nullclass-data-science-/tree/master)]
 
 ## Introduction
 This report summarizes the work completed during the NullClass Data Science Internship, spanning March 17, 2025, to July 17, 2025. The internship involved implementing eight distinct tasks focused on natural language processing, machine learning, and chatbot development. Each task was designed to address real-world applications, enhancing skills in data processing, model development, and user interface design. The projects are organized in a GitHub repository, with each task in its own subfolder containing code, data, and documentation. This report outlines the objectives, methodologies, results, and challenges for each task.
