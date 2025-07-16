@@ -1,0 +1,2 @@
+Machine learning, a subset of AI, enables systems to learn from data and improve over time.
+AI applications include natural language processing, computer vision, and robotics.
